@@ -7,6 +7,7 @@ different customer segments, and Tableau was used to build an interactive
 dashboard highlighting the strongest predictors of churn.
 
 ## Dashboard Preview
+<img width="1918" height="1055" alt="image" src="https://github.com/user-attachments/assets/817443ca-9212-4f52-ae6d-40f76920a59d" />
 
 [[View Interactive Dashboard on Tableau Public]](https://public.tableau.com/app/profile/edward.truong/viz/BankCustomerChurnAnalysis_17812475821060/Dashboard1)
 
